@@ -1,0 +1,45 @@
+body {
+    background-image: linear-gradient(to bottom, white, rgb(206, 126, 252));
+}
+
+h1 {
+    text-align: center;
+    padding: 25px;
+    color: rgb(225, 160, 225);
+}
+
+.form-style {
+    width: 400px;
+    height: inherit;
+    margin: auto;
+    border: 3px solid rgb(206, 126, 252);
+    padding: 40px;
+}
+
+input {
+    color: rgb(130, 82, 207);
+    background-image: linear-gradient(to bottom, white, rgb(206, 126, 252));
+    border-radius: 4px;
+    padding: 25px;
+    margin: 5px;
+    font-size: 20px;
+    border-style: none;
+}
+
+input:hover {
+    color: white;
+}
+
+#calc {
+    width: 160px;
+    border-radius: 4px;
+    border-style: none;
+    padding: 24px;
+    margin: auto;
+}
+
+#clear {
+    padding: 24px;
+    font-size: 18px;
+    margin: auto;
+}
