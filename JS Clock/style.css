@@ -1,0 +1,43 @@
+body {
+    background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(195, 195, 195));
+    color: rgb(27, 27, 27);
+}
+
+.Time {
+    background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(231, 231, 231));
+    border-radius: 28px;
+    font-size: 15px;
+    width: 320px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    letter-spacing: 8px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-shadow: 1px 1px 1px rgb(182, 182, 183);
+    text-shadow: 1px 1px 1px rgb(103, 97, 103);
+
+}
+
+.box1 {
+    background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(231, 231, 231));
+    border-radius: 28px;
+    box-shadow: 1px 1px 1px rgb(182, 182, 183);
+    padding: 40px;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+
+.box2 {
+    background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(231, 231, 231));
+    border-radius: 28px;
+    box-shadow: 1px 1px 1px rgb(182, 182, 183);
+    padding: 40px;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+
+.container {
+    margin: 50px;
+}
